@@ -1,4 +1,4 @@
 # christopheryves.github.io
-Christopheryves Personel Website
+Christopheryves Personal Website
 
 https://christopheryves.github.io
